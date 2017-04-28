@@ -14,21 +14,34 @@
   position: relative;
   top: -250px;
   left: 400px;
-  
-}
-
-.heading-section {
 
 }
 
-.adobe-logo {
-  float: right;
-  width: 15px;
-  height: 20px;
+.heading-section hr {
+  color: #f87300;
+  margin-top: -29px
+}
+
+.heading-section h1 {
+  color: #f87300;
+}
+
+.heading-section h2 {
+  color: #c7c7c7;
+  margin-left: 200px
+}
+
+.heading-section img {
+  width: 170px;
+  height: 60px;
 }
 
 .info-section {
-  background-color: white;
-  height: 300px
-  width: 100px
+  background-color: white;{
+  margin-left: 20px;
+  width: 10px;
+}
+
+.info-section ul {
+  margin-left: -50px;
 }
