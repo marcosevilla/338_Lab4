@@ -14,7 +14,7 @@
   position: relative;
   top: -250px;
   left: 400px;
-
+  padding-left: 20px;
 }
 
 .heading-section hr {
@@ -31,17 +31,25 @@
   margin-left: 200px
 }
 
-.heading-section img {
-  width: 170px;
+.logo img {
+  width: 175px;
   height: 60px;
+  margin-left: 430px;
+  margin-top: -200px;
+}
+
+.logo {
+  margin-left: 10px;
+  margin-top: -50px;
 }
 
 .info-section {
-  background-color: white;{
-  margin-left: 20px;
-  width: 10px;
+  background-color: white;
+  margin-left: 10px;
+  width: 300px;
+  margin-top: 50px;
 }
 
 .info-section ul {
-  margin-left: -50px;
+  margin-left: -20px;
 }
