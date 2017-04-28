@@ -1,0 +1,34 @@
+.if-section {
+  background-color: black;
+  height: 635px;
+  width: 635px;
+  padding-top: 30px;
+}
+
+.if-section img {
+  width: 500px
+}
+
+.if-body {
+  color: white;
+  position: relative;
+  top: -250px;
+  left: 400px;
+  
+}
+
+.heading-section {
+
+}
+
+.adobe-logo {
+  float: right;
+  width: 15px;
+  height: 20px;
+}
+
+.info-section {
+  background-color: white;
+  height: 300px
+  width: 100px
+}
